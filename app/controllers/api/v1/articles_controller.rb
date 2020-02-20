@@ -5,7 +5,7 @@ module Api
 
       def index
         #return all articles
-        @articles = Article.all
+        @articles = Article.all.order("created_at DESC")
         json_response(@articles)
       end
 
