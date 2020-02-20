@@ -49,7 +49,8 @@ module Api
       end
 
       def set_article
-        @note = Article.find(params[:id])
+        #setting article for updation,deletion
+        @article = Article.find(params[:id])
       end
     end
   end
