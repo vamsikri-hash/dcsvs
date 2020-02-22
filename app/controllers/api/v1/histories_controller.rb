@@ -14,7 +14,7 @@ module Api
       private
 
       def history_params
-        params.permit(:question)
+        params.permit(:question, :answer)
       end
     end
   end
