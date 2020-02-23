@@ -1,24 +1,3 @@
-# README
+##### This is backend code base for daksh hasckthon
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##### Its a API based backend that can be used for different front ends like web and mobile(ios or Android)
